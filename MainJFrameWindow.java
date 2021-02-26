@@ -44,13 +44,13 @@ public class MainJFrameWindow {
 		
 		taxationMainWindowJFrame = new JFrame();
 		taxationMainWindowJFrame.setResizable(false);
-		taxationMainWindowJFrame.setTitle("Διαχείρηση φορολογίας");
+		taxationMainWindowJFrame.setTitle("Γ„Γ©Γ΅Γ·Γ¥ΓΓ±Γ§Γ³Γ§ Γ¶Γ―Γ±Γ―Γ«Γ―Γ£ΓΓ΅Γ²");
 		taxationMainWindowJFrame.setBounds(-1, -1, 357, 228);
 		taxationMainWindowJFrame.setLocationRelativeTo(null);
 		taxationMainWindowJFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		taxationMainWindowJFrame.getContentPane().setLayout(null);
 		
-		JLabel label = new JLabel("Συν. αριθμός φορολογούμενων:");
+		JLabel label = new JLabel("Γ“ΓµΓ­. Γ΅Γ±Γ©Γ¨Γ¬ΓΌΓ² Γ¶Γ―Γ±Γ―Γ«Γ―Γ£Γ―Γ½Γ¬Γ¥Γ­ΓΉΓ­:");
 		label.setForeground(Color.BLUE);
 		label.setFont(new Font("Tahoma", Font.BOLD | Font.ITALIC, 13));
 		label.setBounds(30, 11, 218, 33);
@@ -67,12 +67,12 @@ public class MainJFrameWindow {
 		separator.setBounds(29, 42, 293, 2);
 		taxationMainWindowJFrame.getContentPane().add(separator);
 		
-		JButton openTaxpayerLoadDataJDialog = new JButton("Φόρτωση δεδομένων φορολογούμενου (-ων)");
+		JButton openTaxpayerLoadDataJDialog = new JButton("Γ–ΓΌΓ±Γ΄ΓΉΓ³Γ§ Γ¤Γ¥Γ¤Γ―Γ¬ΓΓ­ΓΉΓ­ Γ¶Γ―Γ±Γ―Γ«Γ―Γ£Γ―Γ½Γ¬Γ¥Γ­Γ―Γµ (-ΓΉΓ­)");
 		openTaxpayerLoadDataJDialog.setFont(new Font("Tahoma", Font.BOLD, 11));
 		openTaxpayerLoadDataJDialog.setBounds(27, 55, 295, 53);
 		taxationMainWindowJFrame.getContentPane().add(openTaxpayerLoadDataJDialog);
 		
-		JButton showLoadedTaxpayersDataButton = new JButton("Εμφάνιση λίστας φορολογουμένων");
+		JButton showLoadedTaxpayersDataButton = new JButton("Γ…Γ¬Γ¶ΓΓ­Γ©Γ³Γ§ Γ«ΓΓ³Γ΄Γ΅Γ² Γ¶Γ―Γ±Γ―Γ«Γ―Γ£Γ―ΓµΓ¬ΓΓ­ΓΉΓ­");
 		showLoadedTaxpayersDataButton.setEnabled(false);
 		showLoadedTaxpayersDataButton.setFont(new Font("Tahoma", Font.BOLD, 11));
 		showLoadedTaxpayersDataButton.setBounds(27, 121, 295, 53);
@@ -92,12 +92,12 @@ public class MainJFrameWindow {
 			public void actionPerformed(ActionEvent arg0) {
 				JFileChooser afmInfoFilesFolderChooser = new JFileChooser();
 				afmInfoFilesFolderChooser.setCurrentDirectory(new java.io.File("."));
-				afmInfoFilesFolderChooser.setDialogTitle("Επιλέξτε τον φάκελο που περιέχει τα <AFM>_INFO.* αρχεία");
+				afmInfoFilesFolderChooser.setDialogTitle("Γ…Γ°Γ©Γ«ΓΓ®Γ΄Γ¥ Γ΄Γ―Γ­ Γ¶ΓΓªΓ¥Γ«Γ― Γ°Γ―Γµ Γ°Γ¥Γ±Γ©ΓΓ·Γ¥Γ© Γ΄Γ΅ <AFM>_INFO.* Γ΅Γ±Γ·Γ¥ΓΓ΅");
 				afmInfoFilesFolderChooser.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
 				
 				if(afmInfoFilesFolderChooser.showOpenDialog(null) == JFileChooser.APPROVE_OPTION) {
 				    String afmInfoFilesFolderPath = afmInfoFilesFolderChooser.getSelectedFile().toString();
-				    JOptionPane.showMessageDialog(null, afmInfoFilesFolderPath, "Διαδρομή φακέλου αρχείων εισόδου", JOptionPane.INFORMATION_MESSAGE);
+				    JOptionPane.showMessageDialog(null, afmInfoFilesFolderPath, "Γ„Γ©Γ΅Γ¤Γ±Γ―Γ¬Γ Γ¶Γ΅ΓªΓΓ«Γ―Γµ Γ΅Γ±Γ·Γ¥ΓΓΉΓ­ Γ¥Γ©Γ³ΓΌΓ¤Γ―Γµ", JOptionPane.INFORMATION_MESSAGE);
 				    
 				    database.setTaxpayersInfoFilesPath(afmInfoFilesFolderPath);
 				    
