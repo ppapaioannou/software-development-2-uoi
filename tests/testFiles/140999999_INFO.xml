@@ -1,0 +1,48 @@
+<Name> O Allos Zisis </Name>
+<AFM> 140999999 </AFM>
+<Status> Single </Status>
+<Income> 10.0 </Income>
+
+<Receipts>
+
+<ReceiptID> 1 </ReceiptID>
+<Date> 5/6/2014 </Date>
+<Kind> Other </Kind>
+<Amount> 4.0 </Amount>
+<Company> Pagota </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> Dwdwnis </Street>
+<Number> 100 </Number>
+
+<ReceiptID> 2 </ReceiptID>
+<Date> 5/6/2014 </Date>
+<Kind> Basic </Kind>
+<Amount> 45070.0 </Amount>
+<Company> Masoutis </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> Averof </Street>
+<Number> 100 </Number>
+
+<ReceiptID> 3 </ReceiptID>
+<Date> 5/9/2014 </Date>
+<Kind> Basic </Kind>
+<Amount> 4000.0 </Amount>
+<Company> IKEA </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> Averof </Street>
+<Number> 100 </Number>
+
+<ReceiptID> 4 </ReceiptID>
+<Date> 1/6/2020 </Date>
+<Kind> Basic </Kind>
+<Amount> 900.0 </Amount>
+<Company> Opla Mono </Company>
+<Country> Xwra </Country>
+<City> Poli </City>
+<Street> Dromos </Street>
+<Number> 100 </Number>
+
+</Receipts>

@@ -1,0 +1,12 @@
+Name: Den Kserw Ti Allo Zisis
+AFM: 993456394
+Income: 55600.0
+Basic Tax: 3500.24
+Tax Decrease: 1050.07
+Total Tax: 2450.17
+Receipts: 44000.0
+Entertainment: 0.0
+Basic: 2000.0
+Travel: 40000.0
+Health: 0.0
+Other: 2000.0

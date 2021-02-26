@@ -1,0 +1,38 @@
+<Name> Den Kserw Ti Allo Zisis </Name>
+<AFM> 993456394 </AFM>
+<Status> Single </Status>
+<Income> 55600.0 </Income>
+
+<Receipts>
+
+<ReceiptID> 1 </ReceiptID>
+<Date> 25/2/2014 </Date>
+<Kind> Other </Kind>
+<Amount> 2000.0 </Amount>
+<Company> League Of Legends </Company>
+<Country> Skins </Country>
+<City> Popo lefta </City>
+<Street> Kaloudi </Street>
+<Number> 4 </Number>
+
+<ReceiptID> 2 </ReceiptID>
+<Date> 10/5/2020 </Date>
+<Kind> Basic </Kind>
+<Amount> 2000.0 </Amount>
+<Company> Farmakeio </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> No </Street>
+<Number> 89 </Number>
+
+<ReceiptID> 3 </ReceiptID>
+<Date> 5/6/2017 </Date>
+<Kind> Travel </Kind>
+<Amount> 40000.0 </Amount>
+<Company> Space X </Company>
+<Country> America </Country>
+<City> California mallon </City>
+<Street> Kentriki odos </Street>
+<Number> 2 </Number>
+
+</Receipts>

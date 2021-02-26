@@ -1,0 +1,19 @@
+Single:
+
+incomeLimits: 24680, 81080, 90000, 152540
+incomeTaxRates: 0.0535, 0.0705, 0.0785, 0.0785, 0.0985
+
+Head of Household:
+
+incomeLimits: 24680, 81080, 90000, 152540
+incomeTaxRates: 0.0535, 0.0705, 0.0705, 0.0785, 0.0985
+
+Married Filing Jointly:
+
+incomeLimits: 24680, 81080, 90000, 152540
+incomeTaxRates: 0.0535, 0.0705, 0.0705, 0.0785, 0.0985
+
+Married Filing Separately:
+
+incomeLimits: 24680, 81080, 90000, 152540
+incomeTaxRates: 0.0535, 0.0705, 0.0785, 0.0785, 0.0985

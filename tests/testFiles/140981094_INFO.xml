@@ -1,0 +1,48 @@
+<Name> Nikos Zisis </Name>
+<AFM> 140981094 </AFM>
+<Status> Head of Household </Status>
+<Income> 4000000.0 </Income>
+
+<Receipts>
+
+<ReceiptID> 1 </ReceiptID>
+<Date> 5/6/2014 </Date>
+<Kind> Basic </Kind>
+<Amount> 4000.0 </Amount>
+<Company> IKEA </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> Averof </Street>
+<Number> 100 </Number>
+
+<ReceiptID> 2 </ReceiptID>
+<Date> 5/6/2014 </Date>
+<Kind> Basic </Kind>
+<Amount> 45070.0 </Amount>
+<Company> Masoutis </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> Averof </Street>
+<Number> 100 </Number>
+
+<ReceiptID> 3 </ReceiptID>
+<Date> 5/9/2014 </Date>
+<Kind> Basic </Kind>
+<Amount> 4000.0 </Amount>
+<Company> IKEA </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> Averof </Street>
+<Number> 100 </Number>
+
+<ReceiptID> 4 </ReceiptID>
+<Date> 1/6/2014 </Date>
+<Kind> Basic </Kind>
+<Amount> 4000.0 </Amount>
+<Company> IKEA </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> Averof </Street>
+<Number> 100 </Number>
+
+</Receipts>

@@ -1,0 +1,12 @@
+Name: Paraschos Ferrou
+AFM: 921634662
+Income: 99570.0
+Basic Tax: 6676.68
+Tax Decrease: 1001.5
+Total Tax: 5675.18
+Receipts: 49345.0
+Entertainment: 0.0
+Basic: 29345.0
+Travel: 0.0
+Health: 20000.0
+Other: 0.0

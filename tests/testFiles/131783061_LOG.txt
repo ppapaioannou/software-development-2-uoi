@@ -1,0 +1,12 @@
+Name: Panagiotis Papaioannou
+AFM: 131783061
+Income: 918383.0
+Basic Tax: 86341.73
+Tax Increase: 6907.34
+Total Tax: 93249.06
+Receipts: 5700.0
+Entertainment: 2200.0
+Basic: 500.0
+Travel: 1000.0
+Health: 2000.0
+Other: 0.0

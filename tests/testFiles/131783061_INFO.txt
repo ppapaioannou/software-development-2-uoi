@@ -1,0 +1,58 @@
+Name: Panagiotis Papaioannou
+AFM: 131783061
+Status: Married Filing Separately
+Income: 918383.0
+
+Receipts:
+
+Receipt ID: 1
+Date: 25/2/2020
+Kind: Health
+Amount: 2000.0
+Company: Dentist
+Country: Greece
+City: Athens
+Street: Ermou
+Number: 99
+
+Receipt ID: 2
+Date: 25/4/2020
+Kind: Travel
+Amount: 1000.0
+Company: Ryan Air
+Country: Greece
+City: Athens
+Street: E.Venizelou
+Number: 1
+
+Receipt ID: 3
+Date: 25/12/2014
+Kind: Basic
+Amount: 500.0
+Company: Papageorgiou A.E.
+Country: Greece
+City: Ioannina
+Street: 28is Okt.
+Number: 34
+
+Receipt ID: 4
+Date: 29/10/2020
+Kind: Entertainment
+Amount: 200.0
+Company: Beatnik
+Country: Greece
+City: Ioannina
+Street: Aneksartisias
+Number: 17
+
+Receipt ID: 5
+Date: 25/11/2019
+Kind: Entertainment
+Amount: 2000.0
+Company: Release Festival
+Country: Greece
+City: Piraeus
+Street: Iera Odos
+Number: 199
+
+

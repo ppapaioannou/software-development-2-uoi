@@ -1,0 +1,28 @@
+Name: Random Things Test
+AFM: 999999999
+Status: Married Filing Separately
+Income: 9.0
+
+Receipts:
+
+Receipt ID: 1
+Date: 25/2/2015
+Kind: Other
+Amount: 1.0
+Company: Illegal Stuff AAA
+Country: Greece
+City: Mistiko
+Street: Mistirio
+Number: 0
+
+Receipt ID: 2
+Date: 25/2/2020
+Kind: Other
+Amount: 8.0
+Company: Illegal Stuff AAA
+Country: Greece
+City: Mistiko
+Street: Mistirio
+Number: 0
+
+

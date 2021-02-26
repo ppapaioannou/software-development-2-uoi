@@ -1,0 +1,12 @@
+Name: Paraschos Ferrou Graven
+AFM: 130456420
+Income: 9.3939393E7
+Basic Tax: 9248839.85
+Tax Increase: 739907.19
+Total Tax: 9988747.04
+Receipts: 2000000.0
+Entertainment: 0.0
+Basic: 0.0
+Travel: 0.0
+Health: 0.0
+Other: 2000000.0

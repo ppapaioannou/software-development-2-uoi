@@ -1,0 +1,12 @@
+Name: Test Test
+AFM: 111111111
+Income: 270.0
+Basic Tax: 14.45
+Tax Increase: 1.16
+Total Tax: 15.6
+Receipts: 20.0
+Entertainment: 0.0
+Basic: 20.0
+Travel: 0.0
+Health: 0.0
+Other: 0.0

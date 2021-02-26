@@ -1,0 +1,18 @@
+Name: Test Test
+AFM: 111111111
+Status: Single
+Income: 270.0
+
+Receipts:
+
+Receipt ID: 1
+Date: 25/2/2014
+Kind: Basic
+Amount: 20.0
+Company: Masoutis
+Country: Greece
+City: Thes/niki
+Street: Tsimikiki
+Number: 10
+
+

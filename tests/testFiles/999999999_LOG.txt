@@ -1,0 +1,12 @@
+Name: Random Things Test
+AFM: 999999999
+Income: 9.0
+Basic Tax: 0.48
+Tax Decrease: 0.14
+Total Tax: 0.34
+Receipts: 9.0
+Entertainment: 0.0
+Basic: 0.0
+Travel: 0.0
+Health: 0.0
+Other: 9.0

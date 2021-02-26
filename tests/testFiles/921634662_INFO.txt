@@ -1,0 +1,38 @@
+Name: Paraschos Ferrou
+AFM: 921634662
+Status: Head of Household
+Income: 99570.0
+
+Receipts:
+
+Receipt ID: 1
+Date: 25/2/2020
+Kind: Health
+Amount: 20000.0
+Company: Doctors AE
+Country: Greece
+City: Athina
+Street: Kentro
+Number: 1
+
+Receipt ID: 2
+Date: 25/7/2020
+Kind: Basic
+Amount: 9345.0
+Company: AB Basilopoulos
+Country: Greece
+City: Ioannina
+Street: Tzami
+Number: 87
+
+Receipt ID: 3
+Date: 25/2/2019
+Kind: Basic
+Amount: 20000.0
+Company: H&M
+Country: Greece
+City: Ioannina
+Street: Sto ikea
+Number: 0
+
+

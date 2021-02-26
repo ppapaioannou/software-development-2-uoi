@@ -1,0 +1,12 @@
+Name: O Allos Zisis
+AFM: 140999999
+Income: 10.0
+Basic Tax: 0.54
+Tax Decrease: 0.16
+Total Tax: 0.37
+Receipts: 49974.0
+Entertainment: 0.0
+Basic: 49970.0
+Travel: 0.0
+Health: 0.0
+Other: 4.0
